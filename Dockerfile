@@ -1,3 +1,3 @@
 FROM nginx:latest
 #copy my files
-COPY ./*.html /usr/share/nginx/html/
+COPY ./*.html /usr/share/nginx/htm
